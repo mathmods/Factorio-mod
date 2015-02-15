@@ -1,0 +1,5 @@
+package com.github.mathmods.factorio.transport.client;
+
+public class ClientProxy {
+
+}
